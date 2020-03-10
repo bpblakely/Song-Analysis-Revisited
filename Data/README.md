@@ -24,7 +24,7 @@ The variables in order:
 11. Writers (Genius API related)
 12. Year Released
 
-Note: Genius API isn't perfect and there's some bad data in the mix.
+Note: Genius API isn't perfect, so there's some bad data in the mix.
 
 **all_songs_processed**
 
