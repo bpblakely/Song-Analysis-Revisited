@@ -43,11 +43,12 @@ This file contains the result of Spacy NLP on the data to extract Parts of Speec
 Note: The preprocessing for this step to generate Corpus removed any words between parethensis ( ) and brackets [ ]. This was done to ensure that things like [Verse] and such were removed as it skewed the word count significantly.
 
 
- **all_songs_more_processed**  (in all_songs_processed.zip)
+ **all_songs_more_processed**  	(in all_songs_processed.zip)
  
 This file is just an extension of all_songs_processed (see above). The difference is that this file attempts to scrub some of the noticeably bad data points, removes instrumental music (seperated into different file), and drops songs with no corpus.
     
-**some_instrumental_songs** (in all_songs_processed.zip)
+**some_instrumental_songs** 	(in all_songs_processed.zip)
+
 This file is the file generated from all_songs_more_processed. It is just a filtering of instrumental songs into a different file. The goal was to preserve instrumental only music if the data was relevant for different analysis. 
 	
 Instrumental music was filted by the following;
