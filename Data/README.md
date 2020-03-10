@@ -64,3 +64,7 @@ Instrumental music was filted by the following;
 **all_(PoS)_Sorted** 
  
 These template relates to; all_Verbs_Sorted, all_Nouns_Sorted, and all_Adverbs_Sorted . These files are just a simple list of their relative PoS and a count of how many times they occured in all lyrics for every song in all_songs_more_processed. The list is sorted by value and is in descending order.
+
+These files are designed to be imported by
+
+	numpy.loadtxt('filename',delimeter=',', dtype='str', encoding='utf-8')
