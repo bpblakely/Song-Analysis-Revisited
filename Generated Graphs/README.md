@@ -1,1 +1,1 @@
-
+This folder will contain all the graphs generated in this project. When I say graphs, I really mean any visuals generated to help analyze, so there may be actual plots, wordclouds, ect. Not all will be used in analysis, but I think it's valuable to see all the graphs and why I opted not to use some of them. 
