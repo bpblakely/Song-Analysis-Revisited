@@ -24,6 +24,8 @@ The variables in order:
 11. Writers (Genius API related)
 12. Year Released
 
+Note: Genius API isn't perfect and there's some bad data in the mix.
+
 **all_songs_processed**
 
 This file contains the result of Spacy NLP on the data to extract Parts of Speech from the lyrics. This file is all_songs_data data frame with 6 extra columns appended on to it which are described as follows:
