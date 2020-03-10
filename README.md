@@ -1,6 +1,6 @@
 # Song Analysis Revisited
 
-I am revisiting this project after the BGSU hackathon in order to improve it and work more with the dataset. The goal is still the same.
+I am revisiting this project after the BGSU hackathon in order to improve it and work more with the dataset. The goal is still the same. See the original project: https://github.com/bpblakely/Analysis-of-Historically-Popular-Songs .
 
 The goal of this project is to analyze a couple of the most popular songs of each year for the last 60 years using topological data analysis (TDA) and a natural language processer (NLP). Depending on time restraints, more analysis might be done using ML or analysis of word frequencies in the lyrics.
 
