@@ -5,7 +5,7 @@
  
  ![](https://i.imgur.com/mDZkDUI.png)
 
-**NotGarbage.py**
+**SongAnalysis.py**
 
 
-This is our main program. Note that this was named after we finally got some sort of tangable results. However, despite the name the code is in fact garbage. It's cluttered and was mainly used to generate graphs and had variables changed to generate new ones, which were used for our presentation. 
+This is our main program. Note that this was named after we finally got some sort of tangable results. Still some works needs to be done. Some of the commented out pieces of code were used to generate graphs, but don't need to be ran all the time.
